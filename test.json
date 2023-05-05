@@ -1,0 +1,284 @@
+{
+    "appTitle": "Test App",
+    "appSplashLogo": "https://i.scdn.co/image/49155a6680e47398130e4f5c7d3f65f5c87372db",
+    "mainScreenContent": {
+        "mainListView": [
+            {
+                "listName": "Trending",
+                "isDisplay": true,
+                "itemDisplay": 3,
+                "link": "",
+                "songs": [
+                    {
+                        "title": "Test title test title 1",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            },
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Test title test title 2",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Test title test title 3",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Test title test title 1",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            },
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "listName": "Trending2",
+                "isDisplay": false,
+                "itemDisplay": 3,
+                "link": "",
+                "songs": [
+                    {
+                        "title": "Test title test title 1",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            },
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Test title test title 2",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Test title test title 3",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Test title test title 1",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            },
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "listName": "New",
+                "isDisplay": true,
+                "itemDisplay": 3,
+                "link": "",
+                "songs": [
+                    {
+                        "title": "Test title test title 2",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Test title test title 1",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            },
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Test title test title 3",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    },
+                    {
+                        "title": "Test title test title 1",
+                        "subTitle": "test sub title,",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "otherImageItems": [
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            },
+                            {
+                                "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
+                                "link": ""
+                            },
+                            {
+                                "image": "https://hips.hearstapps.com/hmg-prod/images/2023-chevrolet-corvette-z06-002-1635950091.jpg",
+                                "link": "https://www.google.com/"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    "wallpapers": [
+        "https://w0.peakpx.com/wallpaper/364/706/HD-wallpaper-neha-kakkar-eye-head-stylish-nehakakkar-singer-bollywood-girl-cute-fashion.jpg",
+        "https://wallpapercave.com/wp/wp10159803.jpg"
+    ],
+    "settingsPage": {
+        "mainImage": "https://i.scdn.co/image/49155a6680e47398130e4f5c7d3f65f5c87372db",
+        "privacyPolicy": "https://www.google.com/",
+        "termsCondition": "https://www.google.com/",
+        "shareTheApp": "Please download this app now. \n\n\n https://www.google.com/",
+        "rateTheApp": "https://www.google.com/",
+        "moreApp": "https://www.google.com/"
+    }
+}
