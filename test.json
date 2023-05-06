@@ -7,13 +7,13 @@
                 "listName": "Trending",
                 "isDisplay": true,
                 "itemDisplay": 3,
-                "link": "",
                 "songs": [
                     {
                         "title": "Test title test title 1",
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -38,6 +38,7 @@
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -54,6 +55,7 @@
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -74,6 +76,7 @@
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -99,13 +102,13 @@
                 "listName": "Trending2",
                 "isDisplay": false,
                 "itemDisplay": 3,
-                "link": "",
                 "songs": [
                     {
                         "title": "Test title test title 1",
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -130,6 +133,7 @@
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -146,6 +150,7 @@
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -166,6 +171,7 @@
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -191,13 +197,13 @@
                 "listName": "New",
                 "isDisplay": true,
                 "itemDisplay": 0,
-                "link": "",
                 "songs": [
                     {
                         "title": "Test title test title 2",
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -214,6 +220,7 @@
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -238,6 +245,7 @@
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -258,6 +266,7 @@
                         "subTitle": "test sub title,",
                         "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
                         "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "",
                         "otherImageItems": [
                             {
                                 "image": "https://cdn.pixabay.com/photo/2019/07/07/14/03/fiat-500-4322521__340.jpg",
@@ -283,8 +292,16 @@
                 "listName": "List of button",
                 "isDisplay": true,
                 "itemDisplay": 0,
-                "link": "https://www.google.com/",
-                "songs": []
+                "songs": [
+                    {
+                        "title": "Test title test title 2",
+                        "subTitle": "test sub title,",
+                        "songLink": "https://nf1f8200-a.akamaihd.net/downloads/ringtones/files/mp3/ohhumsafarfullsongnehakakkarhimanshkohliringtone-41812.mp3",
+                        "mainImage": "https://www.imagediamond.com/blog/wp-content/uploads/2019/10/Neha_kakkar-5.jpg",
+                        "downloadLink": "https://www.google.com/",
+                        "otherImageItems": []
+                    }
+                ]
             }
         ]
     },
