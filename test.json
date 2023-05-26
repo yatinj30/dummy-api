@@ -4,6 +4,7 @@
     "mainScreenContent": {
         "mainListView": [
             {
+                "index": 1,
                 "listName": "Trending",
                 "isDisplay": true,
                 "itemDisplay": 3,
@@ -99,10 +100,12 @@
                 ]
             },
             {
+                "index": 2,
                 "mrec": "MjY4NTk5YmVmN2EzNThmOQ==",
                 "isShow": true
             },
             {
+                "index": 3,
                 "listName": "Trending2",
                 "isDisplay": false,
                 "itemDisplay": 3,
@@ -198,10 +201,12 @@
                 ]
             },
             {
+                "index": 4,
                 "mrec": "MjY4NTk5YmVmN2EzNThmOQ==",
                 "isShow": true
             },
             {
+                "index": 5,
                 "listName": "New",
                 "isDisplay": true,
                 "itemDisplay": 0,
@@ -297,10 +302,12 @@
                 ]
             },
             {
+                "index": 6,
                 "mrec": "MjY4NTk5YmVmN2EzNThmOQ==",
                 "isShow": false
             },
             {
+                "index": 7,
                 "listName": "List of button",
                 "isDisplay": true,
                 "itemDisplay": 0,
