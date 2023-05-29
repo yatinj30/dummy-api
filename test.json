@@ -365,6 +365,10 @@
         "onDownload": {
             "id": "YmU5ODRmYWFmM2ZiZmZmNQ==",
             "isShow": true
+        },
+        "popupMREC": {
+            "id": "MjY4NTk5YmVmN2EzNThmOQ==",
+            "isShow": true
         }
     }
 }
