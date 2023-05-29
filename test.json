@@ -199,7 +199,7 @@
             },
             {
                 "mrec": "MjY4NTk5YmVmN2EzNThmOQ==",
-                "isShow": true
+                "isShow": false
             },
             {
                 "listName": "New",
@@ -298,7 +298,7 @@
             },
             {
                 "mrec": "MjY4NTk5YmVmN2EzNThmOQ==",
-                "isShow": false
+                "isShow": true
             },
             {
                 "listName": "List of button",
@@ -359,6 +359,10 @@
             "isShow": true
         },
         "termsCondition": {
+            "id": "YmU5ODRmYWFmM2ZiZmZmNQ==",
+            "isShow": true
+        },
+        "onDownload": {
             "id": "YmU5ODRmYWFmM2ZiZmZmNQ==",
             "isShow": true
         }
