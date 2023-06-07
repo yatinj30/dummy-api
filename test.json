@@ -373,7 +373,7 @@
     "moreApp": "https://www.google.com/"
   },
   "adsData": {
-    "isShow": true,
+    "isShow": false,
     "sdkKey": "MVc3S0FCeGJ5MDFWU0FrbGFwQnI0YlhiSEhJc3VkSGZaRHZ3djdmTU1hWEVsYTIyVDVvcFBwWnUzX2JSbFZmX01fS1BlcmQ0UWZUQnNGMmV1aG4ybko=",
     "mainBanner": {
       "id": "MjNkMmMxMjBmYmZiNzY3ZQ==",
