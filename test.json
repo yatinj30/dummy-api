@@ -403,55 +403,5 @@
       "id": "MjY4NTk5YmVmN2EzNThmOQ==",
       "isShow": true
     }
-  },
-  "themeData": {
-    "light": {
-      "iconTheme": {
-        "color": "0xff000000"
-      },
-      "dividerColor": "0xff000000",
-      "bottomNavigationBarTheme": {
-        "selectedItemColor": "0xff000000"
-      },
-      "dialogTheme": {
-        "titleTextStyle": {
-          "color": "0xff000000"
-        }
-      },
-      "indicatorColor": "0xff000000",
-      "appBarTheme": {
-        "backgroundColor": "0xffFFFFFF",
-        "iconTheme": {
-          "color": "0xff000000"
-        },
-        "titleTextStyle": {
-          "color": "0xff000000"
-        }
-      }
-    },
-    "dark": {
-      "iconTheme": {
-        "color": "0xffFFFFFF"
-      },
-      "dividerColor": "0xffFFFFFF",
-      "bottomNavigationBarTheme": {
-        "selectedItemColor": "0xffFFFFFF"
-      },
-      "dialogTheme": {
-        "titleTextStyle": {
-          "color": "0xff000000"
-        }
-      },
-      "indicatorColor": "0xffFFFFFF",
-      "appBarTheme": {
-        "backgroundColor": "0xff000000",
-        "iconTheme": {
-          "color": "0xffFFFFFF"
-        },
-        "titleTextStyle": {
-          "color": "0xffFFFFFF"
-        }
-      }
-    }
   }
 }
